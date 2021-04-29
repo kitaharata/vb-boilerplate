@@ -1,10 +1,10 @@
-# vb-boilerplate
+# VisualBasic Boilerplate
 Windows cmd.exe
 ```
-v main.vb
-v main.vb /t:library
+v Program.vb
+v Program.vb /t:library
 ```
 ```
-v64 main.vb
-v64 main.vb /t:library
+v64 Program.vb
+v64 Program.vb /t:library
 ```
