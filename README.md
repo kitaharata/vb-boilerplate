@@ -1,10 +1,17 @@
 # VisualBasic Boilerplate
-Windows cmd.exe
+
+Windows: cmd.exe
+
+Build
+
 ```
-v Program.vb
-v Program.vb /t:library
+build
 ```
+
+Run
+
 ```
-v64 Program.vb
-v64 Program.vb /t:library
+main
 ```
+
+SPDX-License-Identifier: MIT
